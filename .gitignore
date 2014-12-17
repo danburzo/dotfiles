@@ -1,0 +1,10 @@
+# OS-generated files
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+._*
+
+# NPM modules
+node_modules

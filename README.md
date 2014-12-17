@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-My OS X dotfiles
+My OS X dotfiles, nothing fancy.
