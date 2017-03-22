@@ -18,15 +18,21 @@
 		"bower_components/**",
 		".tmp/**"
 	],
-	// Theme Repository: 
-	// https://github.com/kkga/spacegray
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
-	"theme": "Spacegray Light.sublime-theme",
-		
-	// Get the font here: 
-	// https://github.com/adobe-fonts/source-code-pro
+
+	"spacegray_fileicons": true,
+
+	// "theme": "Spacegray.sublime-theme",
+	// "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+
+	"theme": "Spacegray Eighties.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+
+	// "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+	// "theme": "Spacegray Light.sublime-theme",
+	
 	"font_face": "Source Code Pro",
 	"font_size": 13,
+	
 	"ignored_packages":
 	[
 		"Vintage"
